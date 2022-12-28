@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 # IntelliJ IDEA files
 .idea/
 *.iml
+=======
+#Intellij Idea
+out/
+.idea/
+target/
+*.iml
+>>>>>>> 5223c4158a81e828de8152fba75ae0cfd70d04f6
