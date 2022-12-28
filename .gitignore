@@ -8,4 +8,5 @@ out/
 .idea/
 target/
 *.iml
+/.gradle
 >>>>>>> 5223c4158a81e828de8152fba75ae0cfd70d04f6
